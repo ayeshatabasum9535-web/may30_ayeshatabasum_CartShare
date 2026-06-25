@@ -1,0 +1,64 @@
+{
+  "rooms": [
+    {
+      "roomCode": "HLP66Y",
+      "participants": [
+        {
+          "id": "usr_1782376714547_hb03c",
+          "name": "ayesha",
+          "joinedAt": "2026-06-25T08:38:34.547Z"
+        },
+        {
+          "id": "usr_1782376739279_ue8p6",
+          "name": "ayeshatabasum",
+          "joinedAt": "2026-06-25T08:38:59.279Z"
+        },
+        {
+          "id": "usr_1782376848650_lh3gt",
+          "name": "xyz",
+          "joinedAt": "2026-06-25T08:40:48.650Z"
+        }
+      ],
+      "items": [
+        {
+          "id": "item_1782376743853_fxi13",
+          "name": "apple",
+          "quantity": 1,
+          "price": 0,
+          "addedBy": "ayeshatabasum",
+          "createdAt": "2026-06-25T08:39:03.853Z"
+        }
+      ],
+      "activityLog": [
+        {
+          "id": "log_1782376848651_4xi8j89jv",
+          "userName": "xyz",
+          "action": "joined",
+          "itemName": "the room",
+          "timestamp": "2026-06-25T08:40:48.651Z"
+        },
+        {
+          "id": "log_1782376743853_4iz6o0moc",
+          "userName": "ayeshatabasum",
+          "action": "added",
+          "itemName": "apple",
+          "timestamp": "2026-06-25T08:39:03.853Z"
+        },
+        {
+          "id": "log_1782376739280_9c1le070u",
+          "userName": "ayeshatabasum",
+          "action": "joined",
+          "itemName": "the room",
+          "timestamp": "2026-06-25T08:38:59.280Z"
+        },
+        {
+          "id": "log_1782376714547_3ffj7jxlr",
+          "userName": "ayesha",
+          "action": "joined",
+          "itemName": "the room",
+          "timestamp": "2026-06-25T08:38:34.547Z"
+        }
+      ]
+    }
+  ]
+}
