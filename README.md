@@ -111,7 +111,7 @@ npm run build
 
 ---
 
-## 🧠 How the App Works
+##  How the App Works
 How It Works (Technical Explanations)
 
 ### Room persistence
@@ -132,7 +132,7 @@ How It Works (Technical Explanations)
 
 ---
 
-## 🎯 Notes
+##  Notes
 Viva Q&A (Project Defence Prep)
 
 - This backend is intentionally minimal and file-based for easy local demo use.
@@ -141,7 +141,7 @@ Viva Q&A (Project Defence Prep)
 
 ---
 
-## 💡 Useful Commands
+##  Useful Commands
 
 ```bash
 # frontend
