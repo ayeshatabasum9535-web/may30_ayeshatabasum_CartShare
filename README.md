@@ -1,4 +1,4 @@
-# B55_AyeshaTabasum_CartShare
+# may30_AyeshaTabasum_CartShare
 
 **CartShare** is a real-time collaborative shopping cart web application built with React, Vite, Tailwind CSS, and a Node.js/Express backend. Multiple users can share a room code, add and manage items in a shared cart, and see each other's activity live.
 
@@ -21,7 +21,7 @@
 ## Project Structure
 
 ```
-B55_AyeshaTabasum_CartShare/
+may30_AyeshaTabasum_CartShare/
 ├── server/
 │   ├── db.json               # JSON file used by the Express backend for persistence
 │   ├── index.js              # Express backend — REST API routes
@@ -65,8 +65,8 @@ This project has two parts — a **frontend** (React/Vite) and a **backend** (Ex
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/B55_AyeshaTabasum_CartShare.git
-cd B55_AyeshaTabasum_CartShare
+git clone https://github.com/YOUR_USERNAME/may30_AyeshaTabasum_CartShare.git
+cd may30_AyeshaTabasum_CartShare
 ```
 
 ### Step 2 — Install frontend dependencies
